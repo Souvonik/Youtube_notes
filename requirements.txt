@@ -1,0 +1,4 @@
+flask
+requests
+fpdf
+yt-dlp  # If your code processes YouTube videos
